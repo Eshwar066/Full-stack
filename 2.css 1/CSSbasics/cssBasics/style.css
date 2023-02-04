@@ -1,0 +1,33 @@
+*{
+    
+    color:red;
+}
+
+body{
+    margin-top: 180px;
+}
+
+div{
+    margin-left: 30px;
+
+}
+
+p{
+    font-size: 50px;
+}
+
+#p2{
+  background-color: yellow;
+}
+
+#p3{
+    margin-left: 20px;
+}
+
+.osmpara{
+    background-color: lightblue;
+}
+
+.bigpara{
+    font-style: italic;
+}

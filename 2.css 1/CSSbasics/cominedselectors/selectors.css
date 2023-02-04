@@ -1,0 +1,15 @@
+li {
+    font-weight: bold;
+}
+
+ul>li {
+    color: blue;
+}
+
+ol>li {
+    color: red;
+}
+
+ul li {
+    font-style: italic;
+}

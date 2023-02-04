@@ -1,0 +1,21 @@
+#para1{
+    font-size: 30px;
+   /* font-size: 5vh; 1vh=1/100 of window height */
+}
+
+#para2{
+    font-family:monospace ; /* contant space for every character */
+    font-family: sans-serif;
+    font-size: medium;
+}
+
+#para3{
+    font-style: italic;
+    font-weight: bold;
+}
+
+#para4{
+    word-spacing: 1px;
+    letter-spacing: 2px;
+     
+}

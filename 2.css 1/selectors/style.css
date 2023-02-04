@@ -1,0 +1,29 @@
+*{
+    font-style: italic;
+}
+div{
+    color:darkblue;
+    width: auto;
+    font-size: larger;
+    font-style: italic;
+}
+p{
+    color: red;
+}
+
+.big{
+    font-size: 25pt;
+}
+
+#one{                                
+    background-color: darkorange;
+}
+
+#two{
+    background-color: darkgreen;
+}
+
+input[disabled]{
+    background-color: black;
+    font-size: 10pt;
+}
