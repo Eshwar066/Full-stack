@@ -1,0 +1,33 @@
+.container{
+    height:auto;
+    width:400px;
+    margin:10px;
+    padding:10px;
+
+    background-color: linen;
+}
+
+.item{
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+
+    background-color: mediumblue;
+    color: white;;
+}
+
+/*
+
+ */
+
+.two > .four{
+    position: relative;
+    padding: 50px;
+    margin-left: 70px;
+    z-index: -10;
+    margin-bottom: 50px;
+}
+
+.item:nth-child(5n){
+    background-color:red;
+}
